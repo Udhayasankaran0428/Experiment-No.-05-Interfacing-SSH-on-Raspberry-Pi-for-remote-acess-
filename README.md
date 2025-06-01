@@ -1,4 +1,4 @@
-# Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access
+# Experiment-No-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access
 ### NAME : UDHAYA SANKARAN M
 ### ROLL NO: 212222110051
 ### DEPARTMENT: CSE(IoT)
